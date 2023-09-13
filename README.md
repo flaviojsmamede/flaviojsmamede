@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Flávio Mamede 👋</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=8D4B55&width=435&lines=Full+Stack+Web+Developer;Front+End+Developer;UX%2FUI+Designer;Le+Wagon+Alumni;Life+long+learner" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=8D4B55&width=435&lines=Full+Stack+Web+Developer;Front+End+Developer;UX%2FUI+Designer;Le+Wagon+Alumni;Life+long+learner" alt="Typing SVG" /></a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
